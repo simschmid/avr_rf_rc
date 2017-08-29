@@ -2,7 +2,7 @@
  * rf_rec.h
  *
  * Created: 28.08.2017 09:51:19
- *  Author: Simon_VBOX
+ *  Author: Simon Schmid (simon-at-schmid.cf)
  */ 
 
 
